@@ -1,0 +1,44 @@
+{
+  "groceries": [
+    {
+      "title": "add",
+      "purchased": false,
+      "id": 1
+    },
+    {
+      "title": "peanut",
+      "purchased": false,
+      "id": 2
+    },
+    {
+      "title": "chicken",
+      "purchased": false,
+      "id": 3
+    },
+    {
+      "title": "protein",
+      "purchased": false,
+      "id": 4
+    },
+    {
+      "title": "oats",
+      "purchased": false,
+      "id": 5
+    },
+    {
+      "title": "banana",
+      "purchased": false,
+      "id": 6
+    },
+    {
+      "title": "sprouts",
+      "purchased": false,
+      "id": 7
+    },
+    {
+      "title": "almonds",
+      "purchased": false,
+      "id": 8
+    }
+  ]
+}
